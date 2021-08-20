@@ -111,6 +111,7 @@ body {
     display: block;
     margin: auto;
     font-size: 1.2rem;
+    border: none;
 }
 .hero .hero-heading {
     text-align: center;
@@ -118,6 +119,7 @@ body {
     font-family: 'Style Script', cursive;
     font-size: 2rem;
     padding: 2rem;
+    border-style: dashed;
 }
 
 
